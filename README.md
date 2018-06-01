@@ -9,7 +9,8 @@
 [配置参考1-支持迅雷、百度云无限制超速下载](https://github.com/itgoyo/Aria2)<br>
 [配置参考2-「下载神器」aria2 懒人安装教程-Windows](https://www.appinn.com/aria2-in-windows-setup/)<br>
 [BaiduExporter源码地址](https://github.com/acgotaku/BaiduExporter)<br>
-[aiar2源码及下载地址](https://github.com/aria2/aria2/releases)
+[aiar2源码及下载地址](https://github.com/aria2/aria2/releases)<br>
+[下载工具系列——Aria2 (几乎全能的下载神器)](http://www.senra.me/awesome-downloader-series-aria2-almost-the-best-all-platform-downloader/)
 
 # Chrome插件搜索
 [Chrome插件搜索](https://www.crx4chrome.com/)
