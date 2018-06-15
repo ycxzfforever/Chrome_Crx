@@ -11,6 +11,7 @@
 [BaiduExporter源码地址](https://github.com/acgotaku/BaiduExporter)<br>
 [aiar2源码及下载地址](https://github.com/aria2/aria2/releases)<br>
 [下载工具系列——Aria2 (几乎全能的下载神器)](http://www.senra.me/awesome-downloader-series-aria2-almost-the-best-all-platform-downloader/)
-
+# 4、google
+chrom浏览器插件，安装后支持google网站访问，VPN插件可以访问国外网站
 # Chrome插件搜索
 [Chrome插件搜索](https://www.crx4chrome.com/)
